@@ -65,6 +65,10 @@
 				"IOS",
 				"TVOS"
 			]
+		},
+		{
+			"Name": "Locomotor",
+			"Enabled": true
 		}
 	]
 }
