@@ -65,6 +65,10 @@
 				"IOS",
 				"TVOS"
 			]
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
 		}
 	]
 }
