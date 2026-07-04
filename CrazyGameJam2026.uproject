@@ -67,7 +67,7 @@
 			]
 		},
 		{
-			"Name": "Locomotor",
+			"Name": "CommonUI",
 			"Enabled": true
 		}
 	]
